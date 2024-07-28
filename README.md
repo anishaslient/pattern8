@@ -1,0 +1,2 @@
+# pattern8
+count
